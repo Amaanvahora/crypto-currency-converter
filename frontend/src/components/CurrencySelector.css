@@ -1,0 +1,47 @@
+/* CurrencySelector.css */
+
+.currency-selector {
+  background-color: black;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 300px;
+  margin: auto;
+}
+
+.currency-selector form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.currency-selector label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.currency-selector input[type="radio"] {
+  accent-color: #4caf50; /* Change the radio button color */
+}
+
+.currency-selector button {
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.currency-selector button:hover {
+  background-color: #367c39;
+}
+
+.currency-selector p {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.1rem;
+}

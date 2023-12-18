@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #fd6cff; /* Updated background color for the entire page */
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.App {
+  width: 100%;
+  max-width: 600px;
+  padding: 2rem;
+  background-color: #dd7ff9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(99, 168, 202, 0.1);
+}
+.App-header {
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #efbae8; /* White background color */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(50, 192, 244, 0.1);
+}
+
+/* Add media query for responsiveness */
+@media (max-width: 768px) {
+  .App {
+    max-width: 100%;
+    box-shadow: none; /* Remove box-shadow on smaller screens for a cleaner look */
+  }
+}
