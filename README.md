@@ -84,5 +84,4 @@ function TradeOMG() constant returns (uint256) {
 ## Contact
 Your Name - [@twitter_handle](https://twitter.com/axmxxn) - amaanvahora7294@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-![Alt text](image.png)
 
