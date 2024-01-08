@@ -2,10 +2,6 @@
 ## About The Project
 <h3 align="center">Crypto Currency Converter</h3>
 
-# This Project has moved!
-MarketPrice has been converted to [FiatContract](https://github.com/Amaanvahora/crypto-currency-converter). Please follow that repo!
-
-
 Retrieve the Ethereum market price by referencing this smart contract! 
 Finally, a way for smart contracts to get how much $1.00 is in ETH. 
 By referencing these contracts you can even automatically convert 
