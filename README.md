@@ -80,11 +80,6 @@ function TradeOMG() constant returns (uint256) {
     // Awesome! The sender sent $5.00 worth of OMG based in ETH value (OMG/ETH)
 }
 ```
-
-
-  17 passing (596ms)
-  ```
-
 <!-- CONTACT -->
 ## Contact
 Your Name - [@twitter_handle](https://twitter.com/axmxxn) - amaanvahora7294@gmail.com
